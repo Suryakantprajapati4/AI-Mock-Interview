@@ -36,7 +36,12 @@ Include in README:
 11. License (MIT)
 12. Contact/Author section
 
-![Uploading Screenshot 2026-05-03 112605.png…]()
+<img width="2879" height="1799" alt="Screenshot 2026-05-03 112605" src="https://github.com/user-attachments/assets/3a96e220-0ac5-4c38-b588-8e8916e1b218" />
+<img width="2805" height="1286" alt="Screenshot 2026-05-03 112736" src="https://github.com/user-attachments/assets/b9a62700-1453-48e0-81ea-c2330f4a9e1f" />
+<img width="2879" height="1799" alt="Screenshot 2026-05-03 112710" src="https://github.com/user-attachments/assets/3a4e60f3-8b27-43c1-8d98-1a52158895ec" />
+<img width="2875" height="1799" alt="Screenshot 2026-05-03 112645" src="https://github.com/user-attachments/assets/f5c1ca00-f520-4454-98e5-9ee7e912ba33" />
+<img width="2879" height="1799" alt="Screenshot 2026-05-03 112809" src="https://github.com/user-attachments/assets/465168c0-986a-4742-9b22-9ea15b0457ce" />
+<img width="2273" height="1473" alt="Screenshot 2026-05-03 112831" src="https://github.com/user-attachments/assets/9b4f81f9-1f8c-4c13-894c-03bc0c976e3b" />
 
 
 # React + TypeScript + Vite
