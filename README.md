@@ -65,8 +65,12 @@ The platform leverages Google Gemini AI to generate relevant, industry-standard 
 
 | Dashboard | Interview Session | Feedback Report |
 |-----------|-------------------|-----------------|
-|
- |  | <img width="2273" height="1473" alt="Screenshot 2026-05-03 112831" src="https://github.com/user-attachments/assets/dbb879fd-0170-471d-bdff-471c1795a47b" />|
+<img width="2879" height="1799" alt="Screenshot 2026-05-03 112809" src="https://github.com/user-attachments/assets/58d8c53e-cb6c-4c4b-a648-79b7da4a3fc3" />
+
+<img width="1587" height="991" alt="interview" src="https://github.com/user-attachments/assets/dff51e14-8e4f-4104-abb2-fc7dde0b9fde" />
+
+ <img width="2273" height="1473" alt="Screenshot 2026-05-03 112831" src="https://github.com/user-attachments/assets/dbb879fd-0170-471d-bdff-471c1795a47b" />
+ 
 
 ---
 
