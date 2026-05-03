@@ -36,6 +36,8 @@ Include in README:
 11. License (MIT)
 12. Contact/Author section
 
+![Uploading Screenshot 2026-05-03 112605.png…]()
+
 
 # React + TypeScript + Vite
 
