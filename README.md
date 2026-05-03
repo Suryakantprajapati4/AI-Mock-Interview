@@ -1,3 +1,42 @@
+AI Mock Interview project.
+
+Project Details:
+- Name: AI Mock Interview
+- Developer: Suryakant
+- Degree: BTech CSE (AI & DS) Final Year
+- Tech Stack: React, TypeScript, Vite, Firebase, 
+  Clerk Auth, Google Gemini AI, Tailwind CSS, 
+  ShadcnUI, Recharts
+
+Features:
+- AI-generated interview questions
+- Speech-to-text answer recording
+- Webcam support during interview
+- AI feedback with ratings (1-10)
+- Performance insights dashboard
+- Overall score circular chart
+- Strong areas vs needs improvement
+- Dark/Light mode toggle
+- Mobile responsive
+- PDF download of feedback
+- Interview history with scores
+- About Us, Services, Contact Us pages
+
+Include in README:
+1. Project banner/title with badges
+2. About section
+3. Features list with emojis
+4. Tech stack with icons/badges
+5. Screenshots section (placeholder)
+6. Installation steps
+7. Environment variables (.env setup)
+8. How to use
+9. Project structure
+10. Contributing
+11. License (MIT)
+12. Contact/Author section
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
