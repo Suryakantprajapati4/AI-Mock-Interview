@@ -1,4 +1,4 @@
-# 🤖 AI Mock Interview
+<img width="2879" height="1799" alt="Screenshot 2026-05-03 112605" src="https://github.com/user-attachments/assets/27eb535b-f39e-4647-ab43-5be2c6059199" /># 🤖 AI Mock Interview
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -65,7 +65,8 @@ The platform leverages Google Gemini AI to generate relevant, industry-standard 
 
 | Dashboard | Interview Session | Feedback Report |
 |-----------|-------------------|-----------------|
-| ![Dashboard](/public/assets/img/hero.jpg) | ![Interview](/public/assets/img/office.jpg) | ![Feedback](/public/assets/img/bg.png) |
+|
+ |  | <img width="2273" height="1473" alt="Screenshot 2026-05-03 112831" src="https://github.com/user-attachments/assets/dbb879fd-0170-471d-bdff-471c1795a47b" />|
 
 ---
 
@@ -212,14 +213,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Suryakant**
 - 🎓 BTech CSE (AI & DS) Final Year Student
-- 📧 suryakant@example.com
-- 🔗 [LinkedIn](https://linkedin.com/in/suryakant)
-- 🐙 [GitHub](https://github.com/suryakant)
+- 📧 suryakantprajapti480@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suryakant-prajapati/)
 
 > 💡 Have questions or suggestions? Feel free to reach out!
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ and AI magic</b>
+  <b>Made with Suryakant Prajapti</b>
 </p>
